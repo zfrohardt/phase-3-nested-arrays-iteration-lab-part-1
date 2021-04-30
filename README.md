@@ -1,4 +1,4 @@
-# Nested Data Structures: Printing Data Lab
+# Lab: Display Data from an Array of Arrays
 
 ## Learning Goals
 
